@@ -1,0 +1,29 @@
+body{
+    background-image:url("https://www.linkpicture.com/q/Black-White-Modern-Professional-Cryptocurrency-Newsroom-Instagram-Post-Facebook-Post-1600-t-900px.jpg");
+      height: 100%;
+      background-position: end;
+      background-repeat:no-repeat;
+      background-size: cover;
+       background-origin: content-box;
+       text-align: center;
+      }
+  h2{
+    color:white;
+  }
+  label {
+      background-color: rgb(255, 50, 50);
+      color: white;
+      padding: 4px;
+  }
+  
+  select {
+      margin-top: 5px;
+    width: 200px;
+    height: 20px; 
+       
+  }
+  input {
+       width: 198px;
+       height: 20px; 
+       
+  }
